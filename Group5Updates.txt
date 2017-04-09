@@ -1,0 +1,13 @@
+As we know, media can skew reality. So we want to examine a liberal and conservative media outlet on one specific issue to showcase how one topic can be framed in different ways. I think the easiest/quickest way to do that is through examining two outlets, the title of the article and the frequency of positive/negative words used in that title. For example, “FAIL” or “SUCCEED” or “BAD” or “STRONG.”  This is my idea—Sarina/Maddie if you have other ideas for this let me know!
+
+
+
+--> acquire data → twitterbot
+--> filter data → twitterbot
+--> store data → Excel
+--> display data → undecided
+
+
+4.9.17 Updates
+Created a twitter bot: https://twitter.com/bot_healthcare 
+Looked at https://www.pygaze.org/2016/03/how-to-code-twitter-bot/
