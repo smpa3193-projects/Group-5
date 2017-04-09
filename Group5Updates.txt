@@ -11,3 +11,5 @@ As we know, media can skew reality. So we want to examine a liberal and conserva
 4.9.17 Updates
 Created a twitter bot: https://twitter.com/bot_healthcare 
 Looked at https://www.pygaze.org/2016/03/how-to-code-twitter-bot/
+
+We want twitterbot to retweet these articles and potentially says something about them…
